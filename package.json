@@ -1,6 +1,6 @@
 {
-  "name": "@kerouac/father-build",
-  "version": "1.17.2",
+  "name": "@kerouac_/father-build",
+  "version": "1.17.2.1",
   "description": "Library build tool based on rollup.",
   "main": "lib/index.js",
   "bin": {
